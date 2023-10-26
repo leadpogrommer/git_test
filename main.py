@@ -8,3 +8,5 @@ print("This line is from second branch")
 
 print(add(4, 6))
 print(multiply(3, 10))
+
+print("Goodbye world")
